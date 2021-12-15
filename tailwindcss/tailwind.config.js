@@ -8,13 +8,5 @@ module.exports = {
             'main-bg': 'hsl(270, 20%, 96%)',
         })
     },
-    fontFamily: {
-        'body': ["'Rubik', sans-serif;"],
-    },
-    textColor: {
-        'rightHeading': "hsl(271, 36%, 24%)",
-    },
     plugins: [],
-}
-plugins: [],
 }
